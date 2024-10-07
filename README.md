@@ -1,3 +1,4 @@
 "# Actividad GitHub 06" 
 
-Rama ibai
+La rama de ibai da verguenza
+
